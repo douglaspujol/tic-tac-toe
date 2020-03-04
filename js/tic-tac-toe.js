@@ -1,5 +1,4 @@
 
-//todo o jogo vai rodar nesta constante
 const tic_tac_toe = {
   board: ['', '', '', '', '', '', '', '', ''],
   simbols: {
